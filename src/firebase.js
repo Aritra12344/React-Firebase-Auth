@@ -6,12 +6,14 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, on
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDSozUWZ06ZsNb67co6TyHKzWUXEHHCZek",
-  authDomain: "logicism-auth-4fd71.firebaseapp.com",
-  projectId: "logicism-auth-4fd71",
-  storageBucket: "logicism-auth-4fd71.appspot.com",
-  messagingSenderId: "769565354450",
-  appId: "1:769565354450:web:f478025bb20c9260b7800b"
+  apiKey: "AIzaSyBPiDrV_hD-d8qTi5m_S5nEjmQ7kMhwkzs",
+  authDomain: "need-electronics-ddcf2.firebaseapp.com",
+  databaseURL: "https://need-electronics-ddcf2-default-rtdb.firebaseio.com",
+  projectId: "need-electronics-ddcf2",
+  storageBucket: "need-electronics-ddcf2.appspot.com",
+  messagingSenderId: "474998627815",
+  appId: "1:474998627815:web:c196980950f90149c57142",
+  measurementId: "G-M7R2H7MZ0B"
 };
 
 // Initialize Firebase
